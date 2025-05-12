@@ -1,0 +1,20 @@
+
+L_A.png
+size: 200,129
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+A_a
+  rotate: true
+  xy: 137, 61
+  size: 66, 61
+  orig: 70, 64
+  offset: 2, 2
+  index: -1
+A_b
+  rotate: false
+  xy: 2, 2
+  size: 133, 125
+  orig: 137, 127
+  offset: 2, 1
+  index: -1

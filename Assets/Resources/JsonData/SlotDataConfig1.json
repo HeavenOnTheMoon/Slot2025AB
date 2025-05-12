@@ -1,0 +1,1165 @@
+{
+    "data": {
+        "SevenSlot": [
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 5000
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 5
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 5000
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 5
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 125
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 5
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 45
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 40
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 80
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 25
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 25
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 5000
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 40
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 80
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 25
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 25
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 5000
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 5
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 145
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 5
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 125
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 5
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 45
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 40
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 80
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 25
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 25
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 45
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 40
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 80
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 25
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 25
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 5
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 10
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 5
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 125
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 5
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 65
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 100
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 20
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 5
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 45
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 40
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 80
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 25
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 25
+                    }
+                ]
+            },
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 45
+                    },
+                    {
+                        "id": 2,
+                        "type": "Diamond",
+                        "typecount": "",
+                        "weights": 40
+                    },
+                    {
+                        "id": 3,
+                        "type": "Cards",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 4,
+                        "type": "Ring",
+                        "typecount": "",
+                        "weights": 80
+                    },
+                    {
+                        "id": 5,
+                        "type": "Item_A",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 6,
+                        "type": "Item_K",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 7,
+                        "type": "Item_Q",
+                        "typecount": "",
+                        "weights": 90
+                    },
+                    {
+                        "id": 8,
+                        "type": "Item_J",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 9,
+                        "type": "Scatter",
+                        "typecount": "",
+                        "weights": 25
+                    },
+                    {
+                        "id": 10,
+                        "type": "Bonus",
+                        "typecount": "",
+                        "weights": 25
+                    }
+                ]
+            }
+        ],
+        "winLine": [
+            {
+                "winType": "wild",
+                "lines": 3,
+                "goldcount": 20
+            },
+            {
+                "winType": "wild",
+                "lines": 4,
+                "goldcount": 60
+            },
+            {
+                "winType": "wild",
+                "lines": 5,
+                "goldcount": 100
+            },
+            {
+                "winType": "Diamond",
+                "lines": 3,
+                "goldcount": 12
+            },
+            {
+                "winType": "Diamond",
+                "lines": 4,
+                "goldcount": 36
+            },
+            {
+                "winType": "Diamond",
+                "lines": 5,
+                "goldcount": 60
+            },
+            {
+                "winType": "Cards",
+                "lines": 3,
+                "goldcount": 10
+            },
+            {
+                "winType": "Cards",
+                "lines": 4,
+                "goldcount": 30
+            },
+            {
+                "winType": "Cards",
+                "lines": 5,
+                "goldcount": 50
+            },
+            {
+                "winType": "Ring",
+                "lines": 3,
+                "goldcount": 8
+            },
+            {
+                "winType": "Ring",
+                "lines": 4,
+                "goldcount": 25
+            },
+            {
+                "winType": "Ring",
+                "lines": 5,
+                "goldcount": 40
+            },
+            {
+                "winType": "beer",
+                "lines": 3,
+                "goldcount": 5
+            },
+            {
+                "winType": "beer",
+                "lines": 4,
+                "goldcount": 15
+            },
+            {
+                "winType": "beer",
+                "lines": 5,
+                "goldcount": 25
+            },
+            {
+                "winType": "Item_A",
+                "lines": 3,
+                "goldcount": 2
+            },
+            {
+                "winType": "Item_A",
+                "lines": 4,
+                "goldcount": 6
+            },
+            {
+                "winType": "Item_A",
+                "lines": 5,
+                "goldcount": 15
+            },
+            {
+                "winType": "Item_K",
+                "lines": 3,
+                "goldcount": 2
+            },
+            {
+                "winType": "Item_K",
+                "lines": 4,
+                "goldcount": 5
+            },
+            {
+                "winType": "Item_K",
+                "lines": 5,
+                "goldcount": 10
+            },
+            {
+                "winType": "Item_Q",
+                "lines": 3,
+                "goldcount": 1
+            },
+            {
+                "winType": "Item_Q",
+                "lines": 4,
+                "goldcount": 4
+            },
+            {
+                "winType": "Item_Q",
+                "lines": 5,
+                "goldcount": 8
+            },
+            {
+                "winType": "Item_J",
+                "lines": 3,
+                "goldcount": 1
+            },
+            {
+                "winType": "Item_J",
+                "lines": 4,
+                "goldcount": 3
+            },
+            {
+                "winType": "Item_J",
+                "lines": 5,
+                "goldcount": 5
+            }
+        ],
+        "sevenSlotSpecialLimit": [
+            {
+                "type": "wild",
+                "num": 4
+            },
+            {
+                "type": "Bonus",
+                "num": 3
+            },
+            {
+                "type": "Scatter",
+                "num": 10
+            }
+        ],
+        "freeSpinReward": [
+            {
+                "count": 3,
+                "type": 3,
+                "value": 6
+            },
+            {
+                "count": 4,
+                "type": 3,
+                "value": 8
+            },
+            {
+                "count": 5,
+                "type": 3,
+                "value": 10
+            },
+            {
+                "count": 6,
+                "type": 3,
+                "value": 12
+            },
+            {
+                "count": 7,
+                "type": 3,
+                "value": 14
+            },
+            {
+                "count": 8,
+                "type": 3,
+                "value": 16
+            },
+            {
+                "count": 9,
+                "type": 3,
+                "value": 18
+            },
+            {
+                "count": 10,
+                "type": 3,
+                "value": 20
+            }
+        ],
+        "jackpotCount": 30,
+        "sLotTwoLine": [
+            "captain",
+            "pirate",
+            "ship"
+        ]
+    }
+}

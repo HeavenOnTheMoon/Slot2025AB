@@ -1,0 +1,48 @@
+
+M_3.png
+size: 335,333
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+card_00
+  rotate: false
+  xy: 2, 164
+  size: 194, 167
+  orig: 198, 173
+  offset: 3, 3
+  index: -1
+card_1
+  rotate: false
+  xy: 186, 2
+  size: 72, 108
+  orig: 74, 112
+  offset: 1, 2
+  index: -1
+card_2
+  rotate: false
+  xy: 260, 2
+  size: 67, 108
+  orig: 70, 112
+  offset: 1, 2
+  index: -1
+card_3
+  rotate: true
+  xy: 198, 112
+  size: 88, 119
+  orig: 92, 122
+  offset: 2, 2
+  index: -1
+card_4
+  rotate: false
+  xy: 198, 202
+  size: 135, 129
+  orig: 138, 133
+  offset: 1, 2
+  index: -1
+card_5
+  rotate: false
+  xy: 2, 9
+  size: 182, 153
+  orig: 185, 155
+  offset: 0, 2
+  index: -1

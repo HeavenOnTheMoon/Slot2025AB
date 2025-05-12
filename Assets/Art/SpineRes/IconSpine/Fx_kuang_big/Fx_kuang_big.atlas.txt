@@ -1,0 +1,104 @@
+
+Fx_kuang_big.png
+size: 1450,1163
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 435, 3
+  size: 209, 578
+  orig: 223, 579
+  offset: 5, 1
+  index: -1
+02
+  rotate: false
+  xy: 436, 584
+  size: 219, 577
+  orig: 223, 579
+  offset: 0, 1
+  index: -1
+03
+  rotate: false
+  xy: 2, 2
+  size: 219, 578
+  orig: 223, 579
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 646, 5
+  size: 219, 577
+  orig: 223, 579
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 657, 589
+  size: 219, 572
+  orig: 223, 579
+  offset: 0, 3
+  index: -1
+06
+  rotate: true
+  xy: 878, 938
+  size: 223, 570
+  orig: 223, 579
+  offset: 0, 3
+  index: -1
+07
+  rotate: true
+  xy: 878, 713
+  size: 223, 544
+  orig: 223, 579
+  offset: 0, 15
+  index: -1
+08
+  rotate: true
+  xy: 878, 492
+  size: 219, 480
+  orig: 223, 579
+  offset: 0, 34
+  index: -1
+09
+  rotate: true
+  xy: 1092, 46
+  size: 219, 345
+  orig: 223, 579
+  offset: 0, 101
+  index: -1
+10
+  rotate: true
+  xy: 1092, 267
+  size: 223, 350
+  orig: 223, 579
+  offset: 0, 114
+  index: -1
+11
+  rotate: false
+  xy: 867, 18
+  size: 223, 472
+  orig: 223, 579
+  offset: 0, 54
+  index: -1
+12
+  rotate: false
+  xy: 217, 583
+  size: 217, 578
+  orig: 223, 579
+  offset: 1, 1
+  index: -1
+13
+  rotate: false
+  xy: 2, 582
+  size: 213, 579
+  orig: 223, 579
+  offset: 4, 0
+  index: -1
+14
+  rotate: false
+  xy: 223, 3
+  size: 210, 578
+  orig: 223, 579
+  offset: 4, 1
+  index: -1

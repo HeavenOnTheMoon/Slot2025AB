@@ -1,0 +1,188 @@
+
+H_WILD.png
+size: 1861,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UpperBody
+  rotate: false
+  xy: 1607, 142
+  size: 201, 172
+  orig: 201, 240
+  offset: 0, 68
+  index: -1
+arm_1
+  rotate: false
+  xy: 1607, 3
+  size: 134, 137
+  orig: 134, 157
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: false
+  xy: 1066, 29
+  size: 42, 56
+  orig: 42, 59
+  offset: 0, 0
+  index: -1
+bg_1
+  rotate: true
+  xy: 1424, 117
+  size: 197, 181
+  orig: 199, 564
+  offset: 1, 382
+  index: -1
+eye_BG
+  rotate: true
+  xy: 1110, 16
+  size: 69, 30
+  orig: 72, 34
+  offset: 1, 2
+  index: -1
+eye_L
+  rotate: false
+  xy: 511, 15
+  size: 12, 13
+  orig: 14, 15
+  offset: 1, 1
+  index: -1
+eye_R
+  rotate: false
+  xy: 525, 16
+  size: 12, 12
+  orig: 14, 14
+  offset: 1, 1
+  index: -1
+eyelash_L
+  rotate: true
+  xy: 497, 5
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+eyelash_R
+  rotate: false
+  xy: 466, 13
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1233, 11
+  size: 103, 127
+  orig: 103, 127
+  offset: 0, 0
+  index: -1
+fx_bg_1
+  rotate: true
+  xy: 360, 30
+  size: 284, 348
+  orig: 286, 388
+  offset: 1, 36
+  index: -1
+glow1 1
+  rotate: false
+  xy: 1005, 87
+  size: 226, 227
+  orig: 268, 269
+  offset: 22, 21
+  index: -1
+hair_1
+  rotate: true
+  xy: 1482, 17
+  size: 98, 86
+  orig: 99, 86
+  offset: 1, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 1362, 27
+  size: 87, 118
+  orig: 87, 118
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 1005, 8
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 1743, 2
+  size: 138, 116
+  orig: 138, 116
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: true
+  xy: 394, 10
+  size: 18, 39
+  orig: 22, 41
+  offset: 1, 1
+  index: -1
+hand_2
+  rotate: false
+  xy: 1186, 8
+  size: 27, 36
+  orig: 29, 41
+  offset: 1, 2
+  index: -1
+kuang_2
+  rotate: true
+  xy: 1233, 116
+  size: 198, 189
+  orig: 198, 189
+  offset: 0, 0
+  index: -1
+poker_1
+  rotate: false
+  xy: 1142, 40
+  size: 32, 45
+  orig: 36, 47
+  offset: 2, 1
+  index: -1
+poker_2
+  rotate: true
+  xy: 1142, 11
+  size: 27, 42
+  orig: 29, 46
+  offset: 1, 2
+  index: -1
+poker_3
+  rotate: false
+  xy: 1176, 46
+  size: 27, 39
+  orig: 29, 41
+  offset: 1, 1
+  index: -1
+poker_4
+  rotate: true
+  xy: 360, 4
+  size: 24, 32
+  orig: 27, 34
+  offset: 1, 1
+  index: -1
+poker_5
+  rotate: true
+  xy: 435, 5
+  size: 23, 29
+  orig: 25, 31
+  offset: 1, 1
+  index: -1
+shadow_1
+  rotate: true
+  xy: 710, 4
+  size: 310, 293
+  orig: 432, 770
+  offset: 41, 473
+  index: -1
+shadow_2
+  rotate: false
+  xy: 2, 5
+  size: 356, 309
+  orig: 492, 832
+  offset: 49, 511
+  index: -1

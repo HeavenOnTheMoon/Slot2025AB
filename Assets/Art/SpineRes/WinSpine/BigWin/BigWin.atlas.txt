@@ -1,0 +1,132 @@
+
+BigWin.png
+size: 1991,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIG
+  rotate: false
+  xy: 1366, 258
+  size: 623, 278
+  orig: 625, 280
+  offset: 1, 1
+  index: -1
+BW_Star_L_1
+  rotate: false
+  xy: 901, 12
+  size: 311, 211
+  orig: 311, 211
+  offset: 0, 0
+  index: -1
+BW_Star_L_2
+  rotate: true
+  xy: 531, 154
+  size: 382, 165
+  orig: 382, 165
+  offset: 0, 0
+  index: -1
+BW_Star_L_3
+  rotate: false
+  xy: 655, 39
+  size: 244, 113
+  orig: 244, 113
+  offset: 0, 0
+  index: -1
+BW_Star_R_1
+  rotate: true
+  xy: 698, 225
+  size: 311, 212
+  orig: 311, 212
+  offset: 0, 0
+  index: -1
+BW_Star_R_2
+  rotate: true
+  xy: 364, 152
+  size: 384, 165
+  orig: 384, 165
+  offset: 0, 0
+  index: -1
+BW_Star_R_3
+  rotate: true
+  xy: 1659, 12
+  size: 244, 113
+  orig: 244, 113
+  offset: 0, 0
+  index: -1
+LightBG_yellow
+  rotate: true
+  xy: 2, 50
+  size: 486, 360
+  orig: 540, 475
+  offset: 24, 81
+  index: -1
+RingLight_big_B
+  rotate: true
+  xy: 1366, 2
+  size: 254, 291
+  orig: 256, 293
+  offset: 1, 1
+  index: -1
+RingLight_big_g
+  rotate: false
+  xy: 1093, 241
+  size: 271, 295
+  orig: 273, 298
+  offset: 1, 2
+  index: -1
+RingLight_big_i
+  rotate: true
+  xy: 364, 28
+  size: 122, 289
+  orig: 124, 291
+  offset: 1, 1
+  index: -1
+Win_i
+  rotate: false
+  xy: 1214, 60
+  size: 90, 179
+  orig: 93, 181
+  offset: 2, 1
+  index: -1
+Win_n
+  rotate: false
+  xy: 1774, 76
+  size: 199, 180
+  orig: 201, 182
+  offset: 1, 1
+  index: -1
+Win_w
+  rotate: true
+  xy: 912, 232
+  size: 304, 179
+  orig: 306, 181
+  offset: 1, 1
+  index: -1
+fx_b
+  rotate: false
+  xy: 698, 171
+  size: 52, 52
+  orig: 64, 64
+  offset: 5, 6
+  index: -1
+fx_b_blue
+  rotate: true
+  xy: 2, 7
+  size: 41, 40
+  orig: 64, 64
+  offset: 11, 12
+  index: -1
+fx_b_grenn
+  rotate: false
+  xy: 44, 8
+  size: 39, 40
+  orig: 64, 64
+  offset: 12, 12
+  index: -1
+fx_b_yellow
+  rotate: false
+  xy: 85, 8
+  size: 39, 40
+  orig: 64, 64
+  offset: 12, 12
+  index: -1

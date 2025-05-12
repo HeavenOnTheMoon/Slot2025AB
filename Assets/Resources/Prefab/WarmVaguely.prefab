@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7723475983796734296
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7723475983266856673}
+  - component: {fileID: 7723475983209479475}
+  - component: {fileID: 7723475983348396246}
+  - component: {fileID: 7723475983824244581}
+  - component: {fileID: 7723475983497606571}
+  - component: {fileID: 7723475983624252199}
+  - component: {fileID: 7723475983286443339}
+  m_Layer: 0
+  m_Name: WarmVaguely
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7723475983266856673
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7723475983796734296}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7723475983209479475
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7723475983796734296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61244f2e9a666a24dbe4fa5ef38327c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  BaseUrl: http://gentleoasis.top/
+  BaseLoginUrl: http://gentleoasis.top//api/client/user/getId?gameCode=
+  BaseConfigUrl: http://gentleoasis.top//api/client/config?gameCode=
+  BaseTimeUrl: http://gentleoasis.top//api/client/common/current_timestamp?gameCode=
+  BaseAdjustUrl: http://gentleoasis.top//api/client/user/setAdjustId?gameCode=
+  GameCode: 21157
+  Channel: AppStore
+  country: 
+  adManager: {fileID: 0}
+  gaid: 
+  aid: 
+  idfa: 
+  ready: 0
+--- !u!114 &7723475983348396246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7723475983796734296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af8453e406af8b04d85cda39559bb6f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &7723475983824244581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7723475983796734296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c88d96af752e80542b2b3dfc85097cd5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  appid: 6636467577
+--- !u!114 &7723475983497606571
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7723475983796734296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aff36335ae6532b4f937bd33efbdf7eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  adjustID: nw74dmkjh0jk
+--- !u!114 &7723475983624252199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7723475983796734296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2214f3eb13f26044a97a650c99ff5a19, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MonoPolyCash: 0
+  target: {fileID: 0}
+  isDelete: 0
+--- !u!114 &7723475983286443339
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7723475983796734296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22dd5f2a30168a948a671c736877b531, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IsInited: 0
+  StopScroll: 0

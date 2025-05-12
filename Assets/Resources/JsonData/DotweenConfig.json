@@ -1,0 +1,32 @@
+{
+"dotweenInfo" :
+[
+{"id":1,"isMask":1,"maskA":"1","group_id" : ["normal_win"]},
+{"id":2,"isMask":0,"maskA":"0.3","group_id":["big_win"]},
+{"id":3,"isMask":0,"maskA":"0.3","group_id":["mega_win"]},
+{"id":4,"isMask":0,"maskA":"0.3","group_id":["cash_win"]},
+{"id":5,"isMask":1,"maskA":"0","group_id":["symbol_777"]},
+{"id":6,"isMask":1,"maskA":"0","group_id":["symbol_77"]},
+{"id":7,"isMask":1,"maskA":"0","group_id":["symbol_7"]},
+{"id":8,"isMask":1,"maskA":"0","group_id":["symbol_bar"]},
+{"id":9,"isMask":1,"maskA":"0","group_id":["symbol_5bar"]},
+{"id":10,"isMask":1,"maskA":"0","group_id":["symbol_cherry"]},
+{"id":11,"isMask":1,"maskA":"0","group_id":["symbol_bell"]},
+{"id":12,"isMask":1,"maskA":"0","group_id":["symbol_wild"]},
+{"id":13,"isMask":1,"maskA":"0","group_id":["symbol_bonus"]},
+{"id":14,"isMask":1,"maskA":"0","group_id":["symbol_cash"]},
+{"id":15,"isMask":1,"maskA":"0","group_id":["piggybank_btn_normal_1"]},
+{"id":16,"isMask":1,"maskA":"0","group_id":["piggybank_btn_full"]},
+{"id":17,"isMask":0,"maskA":"0.3","group_id":["piggybank_mask_open"]},
+{"id":18,"isMask":0,"maskA":"0.3","group_id":["piggybank_mask_full"]},
+{"id":19,"isMask":0,"maskA":"0.3","group_id":["piggybank_mask_break_1","piggybank_mask_break_2","piggybank_mask_break_3","piggybank_mask_break_4","piggybank_mask_break_5"]},
+{"id":20,"isMask":1,"maskA":"0","group_id":["jackpot_btn_normal"]},
+{"id":21,"isMask":1,"maskA":"0","group_id":["jackpot_btn_full","jackpot_btn_normal"]},
+{"id":22,"isMask":1,"maskA":"0","group_id":["jackpot_btn_open_1","jackpot_btn_open_2"]},
+{"id":23,"isMask":0,"maskA":"0.3","group_id":["specialchest_mask_normal"]},
+{"id":24,"isMask":0,"maskA":"0.3","group_id":["specialchest_mask_open_1","specialchest_mask_open_2"]},
+{"id":25,"isMask":1,"maskA":"0","group_id":["special_rolling"]},
+{"id":26,"isMask":1,"maskA":"0","group_id":["jackpot_btn_open_gold_1","jackpot_btn_open_gold_2"]}
+]
+
+}

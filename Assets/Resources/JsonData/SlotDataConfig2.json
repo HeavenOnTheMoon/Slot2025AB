@@ -1,0 +1,1296 @@
+{
+    "data": {
+        "SevenSlot": [
+            {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+          {
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            },
+{
+                "slotPiece": [
+                    {
+                        "id": 1,
+                        "type": "wild",
+                        "typecount": "",
+                        "weights": 15
+                    },
+                    {
+                        "id": 2,
+                        "type": "Wizard",
+                        "typecount": "",
+                        "weights": 60
+                    },
+                    {
+                        "id": 3,
+                        "type": "beginner",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 4,
+                        "type": "owl",
+                        "typecount": "",
+                        "weights": 120
+                    },
+                    {
+                        "id": 5,
+                        "type": "ring",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 6,
+                        "type": "gem_blue",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 7,
+                        "type": "gem_green",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 8,
+                        "type": "gem_red",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 9,
+                        "type": "gem_yellow",
+                        "typecount": "",
+                        "weights": 300
+                    },
+                    {
+                        "id": 10,
+                        "type": "wand",
+                        "typecount": "",
+                        "weights": 30
+                    },
+                    {
+                        "id": 11,
+                        "type": "freespin",
+                        "typecount": "",
+                        "weights": 5
+                    }
+                ]
+            }
+
+        ],
+        "winLine": [
+            {
+                "winType": "wild",
+                "lines": 3,
+                "goldcount": 10000
+            },
+            {
+                "winType": "wild",
+                "lines": 4,
+                "goldcount": 20000
+            },
+            {
+                "winType": "wild",
+                "lines": 5,
+                "goldcount": 50000
+            },
+            {
+                "winType": "Wizard",
+                "lines": 3,
+                "goldcount": 1200
+            },
+            {
+                "winType": "Wizard",
+                "lines": 4,
+                "goldcount": 5000
+            },
+            {
+                "winType": "Wizard",
+                "lines": 5,
+                "goldcount": 10000
+            },
+            {
+                "winType": "beginner",
+                "lines": 3,
+                "goldcount": 1000
+            },
+            {
+                "winType": "beginner",
+                "lines": 4,
+                "goldcount": 4000
+            },
+            {
+                "winType": "beginner",
+                "lines": 5,
+                "goldcount": 8000
+            },
+            {
+                "winType": "owl",
+                "lines": 3,
+                "goldcount": 800
+            },
+            {
+                "winType": "owl",
+                "lines": 4,
+                "goldcount": 3200
+            },
+            {
+                "winType": "owl",
+                "lines": 5,
+                "goldcount": 6400
+            },
+            {
+                "winType": "gem_blue",
+                "lines": 3,
+                "goldcount": 100
+            },
+            {
+                "winType": "gem_blue",
+                "lines": 4,
+                "goldcount": 600
+            },
+            {
+                "winType": "gem_blue",
+                "lines": 5,
+                "goldcount": 1200
+            },
+            {
+                "winType": "gem_green",
+                "lines": 3,
+                "goldcount": 100
+            },
+            {
+                "winType": "gem_green",
+                "lines": 4,
+                "goldcount": 500
+            },
+            {
+                "winType": "gem_green",
+                "lines": 5,
+                "goldcount": 1000
+            },
+            {
+                "winType": "gem_red",
+                "lines": 3,
+                "goldcount": 100
+            },
+            {
+                "winType": "gem_red",
+                "lines": 4,
+                "goldcount": 400
+            },
+            {
+                "winType": "gem_red",
+                "lines": 5,
+                "goldcount": 800
+            },
+            {
+                "winType": "gem_yellow",
+                "lines": 3,
+                "goldcount": 100
+            },
+            {
+                "winType": "gem_yellow",
+                "lines": 4,
+                "goldcount": 300
+            },
+            {
+                "winType": "gem_yellow",
+                "lines": 5,
+                "goldcount": 600
+            }
+        ],
+        "slotSevenJackpotData": [
+            {
+                "type": "token",
+                "num": "10000",
+                "weight": 1
+            },
+            {
+                "type": "token",
+                "num": "20000",
+                "weight": 1
+            },
+            {
+                "type": "cash",
+                "num": "0.5",
+                "weight": 1
+            }
+        ],
+        "sevenSlotSpecialLimit": [
+            {
+                "type": "wild",
+                "num": 4
+            },
+            {
+                "type": "bonus",
+                "num": 0
+            },
+            {
+                "type": "cash",
+                "num": 3
+            },
+            {
+                "type": "special",
+                "num": 0
+            },
+            {
+                "type": "wand",
+                "num": 1
+            },
+            {
+                "type": "ring",
+                "num": 3
+            },
+            {
+                "type": "bottle",
+                "num": 3
+            },
+            {
+                "type": "freespin",
+                "num": 10
+            }
+        ],
+        "freeSpinReward": [
+            {
+                "count": 0,
+                "type": 3,
+                "value": 0
+            },
+            {
+                "count": 3,
+                "type": 3,
+                "value": 6
+            },
+            {
+                "count": 4,
+                "type": 3,
+                "value": 8
+            },
+            {
+                "count": 5,
+                "type": 3,
+                "value": 10
+            },
+            {
+                "count": 6,
+                "type": 3,
+                "value": 12
+            },
+            {
+                "count": 7,
+                "type": 3,
+                "value": 14
+            },
+            {
+                "count": 8,
+                "type": 3,
+                "value": 16
+            },
+            {
+                "count": 9,
+                "type": 3,
+                "value": 18
+            },
+            {
+                "count": 10,
+                "type": 3,
+                "value": 20
+            }
+        ],
+        "starReward": [
+            {
+                "starIconCount": 3,
+                "baseVlue": 200000,
+                "onceAddValue": 1000
+            },
+            {
+                "starIconCount": 5,
+                "baseVlue": 8000000,
+                "onceAddValue": 5000
+            },
+            {
+                "starIconCount": 10,
+                "baseVlue": 450000000,
+                "onceAddValue": 20000
+            }
+        ],
+        "jackpotCount": 30,
+        "sLotTwoLine": [ "captain", "pirate", "ship" ]
+    }
+}

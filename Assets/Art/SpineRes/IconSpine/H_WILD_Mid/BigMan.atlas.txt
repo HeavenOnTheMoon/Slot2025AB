@@ -1,0 +1,83 @@
+
+BigMan.png
+size: 1068,506
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Close_1
+  rotate: false
+  xy: 641, 25
+  size: 159, 97
+  orig: 163, 101
+  offset: 2, 2
+  index: -1
+arm
+  rotate: true
+  xy: 2, 2
+  size: 185, 248
+  orig: 187, 250
+  offset: 1, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 189
+  size: 643, 315
+  orig: 652, 474
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: true
+  xy: 1037, 66
+  size: 26, 29
+  orig: 28, 31
+  offset: 1, 1
+  index: -1
+eye_R
+  rotate: true
+  xy: 1037, 94
+  size: 28, 29
+  orig: 30, 31
+  offset: 1, 1
+  index: -1
+eye_bg
+  rotate: false
+  xy: 802, 64
+  size: 154, 58
+  orig: 159, 62
+  offset: 3, 2
+  index: -1
+face
+  rotate: false
+  xy: 647, 124
+  size: 408, 380
+  orig: 424, 380
+  offset: 16, 0
+  index: -1
+glass_1
+  rotate: false
+  xy: 802, 2
+  size: 61, 60
+  orig: 63, 62
+  offset: 1, 1
+  index: -1
+hand
+  rotate: true
+  xy: 252, 12
+  size: 175, 214
+  orig: 182, 268
+  offset: 1, 1
+  index: -1
+hand_light_1
+  rotate: false
+  xy: 958, 53
+  size: 77, 69
+  orig: 87, 77
+  offset: 5, 5
+  index: -1
+hand_light_2
+  rotate: false
+  xy: 468, 15
+  size: 171, 172
+  orig: 203, 203
+  offset: 17, 15
+  index: -1

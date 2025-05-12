@@ -1,0 +1,62 @@
+
+Fx_kuang_a.png
+size: 1727,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pic_ger_skill_01
+  rotate: true
+  xy: 2, 2
+  size: 219, 217
+  orig: 221, 219
+  offset: 1, 1
+  index: -1
+pic_ger_skill_02
+  rotate: true
+  xy: 221, 2
+  size: 219, 217
+  orig: 221, 219
+  offset: 1, 1
+  index: -1
+pic_ger_skill_03
+  rotate: true
+  xy: 659, 2
+  size: 219, 215
+  orig: 221, 217
+  offset: 1, 1
+  index: -1
+pic_ger_skill_04
+  rotate: true
+  xy: 1091, 2
+  size: 219, 211
+  orig: 221, 213
+  offset: 1, 1
+  index: -1
+pic_ger_skill_05
+  rotate: false
+  xy: 440, 2
+  size: 217, 219
+  orig: 219, 221
+  offset: 1, 1
+  index: -1
+pic_ger_skill_06
+  rotate: false
+  xy: 876, 2
+  size: 213, 219
+  orig: 215, 221
+  offset: 1, 1
+  index: -1
+pic_ger_skill_07
+  rotate: false
+  xy: 1304, 2
+  size: 210, 219
+  orig: 212, 221
+  offset: 1, 1
+  index: -1
+pic_ger_skill_08
+  rotate: false
+  xy: 1516, 2
+  size: 209, 219
+  orig: 211, 221
+  offset: 1, 1
+  index: -1

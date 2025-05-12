@@ -1,0 +1,41 @@
+
+ren.png
+size: 706,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gao
+  rotate: false
+  xy: 443, 23
+  size: 179, 192
+  orig: 179, 192
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 225, 12
+  size: 203, 216
+  orig: 203, 216
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 624, 135
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+shou2
+  rotate: false
+  xy: 624, 135
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 2, 2
+  size: 213, 221
+  orig: 213, 221
+  offset: 0, 0
+  index: -1

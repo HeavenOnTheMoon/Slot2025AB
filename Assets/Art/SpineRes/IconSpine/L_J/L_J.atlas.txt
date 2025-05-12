@@ -1,0 +1,27 @@
+
+L_J.png
+size: 342,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J_a
+  rotate: false
+  xy: 224, 66
+  size: 116, 140
+  orig: 119, 142
+  offset: 1, 1
+  index: -1
+J_b
+  rotate: false
+  xy: 224, 9
+  size: 53, 55
+  orig: 57, 57
+  offset: 2, 1
+  index: -1
+aa
+  rotate: false
+  xy: 2, 2
+  size: 220, 204
+  orig: 222, 206
+  offset: 1, 1
+  index: -1

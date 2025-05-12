@@ -1,0 +1,199 @@
+{
+    "ConfigInfo": [
+        {
+            "Key": "\u672C\u914D\u7F6E\u6587\u4EF6\u8BF4\u660E"
+        },
+        {
+            "Key": "MagicGamePanel",
+            "Value": "UIPanel\\MagicGamePanel"
+        },
+        {
+            "Key": "MagicSettingPanel",
+            "Value": "UIPanel\\MagicSettingPanel"
+        },
+        {
+            "Key": "AprilGrope",
+            "Value": "UIPanel\\AprilGrope"
+        },
+        {
+            "Key": "MagicLevelCompletePanel",
+            "Value": "UIPanel\\MagicLevelCompletePanel"
+        },
+        {
+            "Key": "AprilCropUsCoach",
+            "Value": "UIPanel\\AprilCropUsCoach"
+        },
+        {
+            "Key": "MagicSlotGamePanel",
+            "Value": "UIPanel\\MagicSlotGamePanel"
+        },
+        {
+            "Key": "MagicChestOnceRewardPanel",
+            "Value": "UIPanel\\MagicChestOnceRewardPanel"
+        },
+        {
+            "Key": "MagicChestSumRewardPanel",
+            "Value": "UIPanel\\MagicChestSumRewardPanel"
+        },
+        {
+            "Key": "MagicCoinPigPanel",
+            "Value": "UIPanel\\MagicCoinPigPanel"
+        },
+        {
+            "Key": "MagicDailyACardPanel",
+            "Value": "UIPanel\\MagicDailyACardPanel"
+        },
+        {
+            "Key": "MagicDailyCashPanel",
+            "Value": "UIPanel\\MagicDailyCashPanel"
+        },
+        {
+            "Key": "MagicLuckyCashPanel",
+            "Value": "UIPanel\\MagicLuckyCashPanel"
+        },
+        {
+            "Key": "MagicLuckyACardPanel",
+            "Value": "UIPanel\\MagicLuckyACardPanel"
+        },
+        {
+            "Key": "MagicLuckyFragmentPanel",
+            "Value": "UIPanel\\MagicLuckyFragmentPanel"
+        },
+        {
+            "Key": "MagicLuckyKeyPanel",
+            "Value": "UIPanel\\MagicLuckyKeyPanel"
+        },
+        {
+            "Key": "MagicLuckyWheelPanel",
+            "Value": "UIPanel\\MagicLuckyWheelPanel"
+        },
+        {
+            "Key": "MagicOpenChestPanel",
+            "Value": "UIPanel\\MagicOpenChestPanel"
+        },
+        {
+            "Key": "MagicFlyBubbleCashPanel",
+            "Value": "UIPanel\\MagicFlyBubbleCashPanel"
+        },
+        {
+            "Key": "MagicGameInstructionsPanel",
+            "Value": "UIPanel\\MagicGameInstructionsPanel"
+        },
+        {
+            "Key": "MagicAddSpinPanel",
+            "Value": "UIPanel\\MagicAddSpinPanel"
+        },
+        {
+            "Key": "MagicWinPanel",
+            "Value": "UIPanel\\MagicWinPanel"
+        },
+        {
+            "Key": "PortraitThoughCoach",
+            "Value": "UIPanel\\Portrait\\ThoughCoach"
+        },
+        {
+            "Key": "PortraitTolerantCoach",
+            "Value": "UIPanel\\Portrait\\TolerantCoach"
+        },
+        {
+            "Key": "PortraitIndianaCheerCoach",
+            "Value": "UIPanel\\Portrait\\IndianaCheerCoach"
+        },
+        {
+            "Key": "PortraitTemperCoach",
+            "Value": "UIPanel\\Portrait\\TemperCoach"
+        },
+        {
+            "Key": "PortraitVineSteppeThoughCoach",
+            "Value": "UIPanel\\Portrait\\VineSteppeThoughCoach"
+        },
+        {
+            "Key": "PortraitThoughTollCoach",
+            "Value": "UIPanel\\Portrait\\ThoughTollCoach"
+        },
+        {
+            "Key": "PortraitUniformCoach",
+            "Value": "UIPanel\\Portrait\\UniformCoach"
+        },
+        {
+            "Key": "PortraitAccumulationCoach",
+            "Value": "UIPanel\\Portrait\\AccumulationCoach"
+        },
+        {
+            "Key": "PortraitReverseTollSubtractionCoach",
+            "Value": "UIPanel\\Portrait\\ReverseTollSubtractionCoach"
+        },
+        {
+            "Key": "PortraitCollectPuzzle",
+            "Value": "UIPanel\\Portrait\\CollectPuzzle"
+        },
+        {
+            "Key": "PortraitHimThoughCoach",
+            "Value": "UIPanel\\Portrait\\HimThoughCoach"
+        },
+        {
+            "Key": "FortFistCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortFistCoach"
+        },
+        {
+            "Key": "FortMeadowCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortMeadowCoach"
+        },
+        {
+            "Key": "FortFoldMeadowCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortFoldMeadowCoach"
+        },
+        {
+            "Key": "FortGildFistCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortGildFistCoach"
+        },
+        {
+            "Key": "FortVineHutCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortVineHutCoach"
+        },
+        {
+            "Key": "OrphanageRadarCoach",
+            "Value": "UIPanel\\SlotsPanel\\OrphanageRadarCoach"
+        },
+        {
+            "Key": "FortVenomFortCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortVenomFortCoach"
+        },
+        {
+            "Key": "FortVenomCharmCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortVenomCharmCoach"
+        },
+        {
+            "Key": "FortVenomHaleCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortVenomHaleCoach"
+        },
+        {
+            "Key": "FortVenomHaleMeadowCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortVenomHaleMeadowCoach"
+        },
+        {
+            "Key": "FortUselessCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortUselessCoach"
+        },
+        {
+            "Key": "ExpressionlessCoach",
+            "Value": "UIPanel\\SlotsPanel\\ExpressionlessCoach"
+        },
+        {
+            "Key": "FortWageHerdCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortWageHerdCoach"
+        },
+        {
+            "Key": "FortADMeadowCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortADMeadowCoach"
+        },
+        {
+            "Key": "FortWageHerdShrineCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortWageHerdShrineCoach"
+        },
+        {
+            "Key": "FortCropDyCoach",
+            "Value": "UIPanel\\SlotsPanel\\FortCropDyCoach"
+        }
+    ]
+}

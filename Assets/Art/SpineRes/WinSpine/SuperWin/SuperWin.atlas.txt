@@ -1,0 +1,146 @@
+
+SuperWin.png
+size: 2029,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BIG
+  rotate: false
+  xy: 1306, 287
+  size: 721, 214
+  orig: 721, 214
+  offset: 0, 0
+  index: -1
+BW_Star_L_1
+  rotate: true
+  xy: 912, 190
+  size: 311, 211
+  orig: 311, 211
+  offset: 0, 0
+  index: -1
+BW_Star_L_2
+  rotate: true
+  xy: 531, 119
+  size: 382, 165
+  orig: 382, 165
+  offset: 0, 0
+  index: -1
+BW_Star_L_3
+  rotate: false
+  xy: 364, 2
+  size: 244, 113
+  orig: 244, 113
+  offset: 0, 0
+  index: -1
+BW_Star_R_1
+  rotate: true
+  xy: 698, 190
+  size: 311, 212
+  orig: 311, 212
+  offset: 0, 0
+  index: -1
+BW_Star_R_2
+  rotate: true
+  xy: 364, 117
+  size: 384, 165
+  orig: 384, 165
+  offset: 0, 0
+  index: -1
+BW_Star_R_3
+  rotate: false
+  xy: 610, 4
+  size: 244, 113
+  orig: 244, 113
+  offset: 0, 0
+  index: -1
+LightBG_yellow
+  rotate: true
+  xy: 2, 15
+  size: 486, 360
+  orig: 540, 475
+  offset: 24, 81
+  index: -1
+RingLight_S_E
+  rotate: false
+  xy: 1538, 56
+  size: 155, 229
+  orig: 158, 232
+  offset: 1, 1
+  index: -1
+RingLight_S_P
+  rotate: false
+  xy: 1372, 56
+  size: 164, 229
+  orig: 166, 231
+  offset: 1, 1
+  index: -1
+RingLight_S_R
+  rotate: true
+  xy: 856, 7
+  size: 181, 221
+  orig: 184, 225
+  offset: 2, 2
+  index: -1
+RingLight_S_S
+  rotate: false
+  xy: 1860, 71
+  size: 162, 214
+  orig: 165, 216
+  offset: 1, 1
+  index: -1
+RingLight_S_U
+  rotate: false
+  xy: 1695, 57
+  size: 163, 228
+  orig: 165, 232
+  offset: 1, 2
+  index: -1
+Win_i
+  rotate: false
+  xy: 1280, 16
+  size: 90, 179
+  orig: 93, 181
+  offset: 2, 1
+  index: -1
+Win_n
+  rotate: false
+  xy: 1079, 8
+  size: 199, 180
+  orig: 201, 182
+  offset: 1, 1
+  index: -1
+Win_w
+  rotate: true
+  xy: 1125, 197
+  size: 304, 179
+  orig: 306, 181
+  offset: 1, 1
+  index: -1
+fx_b
+  rotate: false
+  xy: 698, 136
+  size: 52, 52
+  orig: 64, 64
+  offset: 5, 6
+  index: -1
+fx_b_blue
+  rotate: true
+  xy: 752, 147
+  size: 41, 40
+  orig: 64, 64
+  offset: 11, 12
+  index: -1
+fx_b_grenn
+  rotate: true
+  xy: 794, 149
+  size: 39, 40
+  orig: 64, 64
+  offset: 12, 12
+  index: -1
+fx_b_yellow
+  rotate: false
+  xy: 1306, 245
+  size: 39, 40
+  orig: 64, 64
+  offset: 12, 12
+  index: -1

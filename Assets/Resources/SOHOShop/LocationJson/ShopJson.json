@@ -1,0 +1,184 @@
+{
+	"email": "MintCandyGame@outlook.com",
+	"cash_withdraw_time": 300,
+	"cash_withdraw_type": 1,
+	"cash_checkout_conditions": [
+		{
+			"type": "Balance",
+			"condition_num": 100,
+			"desc": "Reach <color=#ee5858>$${value}</color> and get instant"
+		},
+		{
+			"type": "Custom",
+			"name": "condition1",
+			"condition_num": 5,
+			"desc": ""
+		}
+	],
+	"cash_checkout_tasks": [
+		{
+			"type": "AD",
+			"task_num": 10,
+			"desc": "Please Watch <color=#E0A700><size=40>${value}/${task_num}</size></color> AD to approve order"
+		},
+		{
+			"type": "Time",
+			"task_num": 86400,
+			"desc": ""
+		},
+		{
+			"type": "Spin",
+			"task_num": 20,
+			"desc": "Please Spin <color=#E0A700><size=40>${value}/${task_num}</size></color> times to approve order"
+		},
+		{
+			"type": "Time",
+			"task_num": 86400,
+			"desc": ""
+		}
+	],
+	"withdraw_group": [
+		{
+			"type": "gold",
+			"num": 100,
+			"cashout": 100
+		},
+		{
+			"type": "amazon",
+			"num": 100,
+			"cashout": 100
+		},
+		{
+			"type": "cash",
+			"num": 10,
+			"cashout": 10
+		},
+		{
+			"type": "gold",
+			"num": 150000,
+			"cashout": 2000
+		},
+		{
+			"type": "amazon",
+			"num": 150000,
+			"cashout": 2000
+		},
+		{
+			"type": "gold",
+			"num": 200000,
+			"cashout": 3000
+		},
+		{
+			"type": "amazon",
+			"num": 200000,
+			"cashout": 3000
+		}
+	],
+	"allWithdraw_group": [
+		{
+			"type": "cash",
+			"num": 300,
+			"cashout": 300
+		},
+		{
+			"type": "amazon",
+			"num": 500,
+			"cashout": 500
+		},
+		{
+			"type": "cash",
+			"num": 500,
+			"cashout": 500
+		},
+		{
+			"type": "amazon",
+			"num": 1000,
+			"cashout": 1000
+		},
+		{
+			"type": "cash",
+			"num": 800,
+			"cashout": 800
+		},
+		{
+			"type": "amazon",
+			"num": 1500,
+			"cashout": 1500
+		},
+		{
+			"type": "cash",
+			"num": 1200,
+			"cashout": 1200
+		},
+		{
+			"type": "amazon",
+			"num": 2000,
+			"cashout": 2000
+		}
+	],
+	"puzzle_shop_group": [
+		{
+			"name": "SamsungS21",
+			"puzzle_img": "SOHOShop/UI_Redeem/UI_Puzzle/Puzzle/Samsung_Puzzle",
+			"reward_img": "SOHOShop/UI_Redeem/UI_Puzzle/SamsungS21_Reward",
+			"sum_count": 50
+		},
+		{
+			"name": "PS5",
+			"puzzle_img": "SOHOShop/UI_Redeem/UI_Puzzle/Puzzle/Ps5_Puzzle",
+			"reward_img": "SOHOShop/UI_Redeem/UI_Puzzle/Ps5_Reward",
+			"sum_count": 50
+		},
+		{
+			"name": "Switch",
+			"puzzle_img": "SOHOShop/UI_Redeem/UI_Puzzle/Puzzle/Switch_Puzzle",
+			"reward_img": "SOHOShop/UI_Redeem/UI_Puzzle/Switch_Reward",
+			"sum_count": 50
+		},
+		{
+			"name": "MacBook",
+			"puzzle_img": "SOHOShop/UI_Redeem/UI_Puzzle/Puzzle/MacBook_Puzzle",
+			"reward_img": "SOHOShop/UI_Redeem/UI_Puzzle/MacBook_Reward",
+			"sum_count": 50
+		},
+		{
+			"name": "iPad Pro",
+			"puzzle_img": "SOHOShop/UI_Redeem/UI_Puzzle/Puzzle/IpadPro_Puzzle",
+			"reward_img": "SOHOShop/UI_Redeem/UI_Puzzle/IpadPro_Reward",
+			"sum_count": 50
+		},
+		{
+			"name": "TESLA",
+			"puzzle_img": "SOHOShop/UI_Redeem/UI_Puzzle/Puzzle/ModelS_Puzzle",
+			"reward_img": "SOHOShop/UI_Redeem/UI_Puzzle/ModelS_Reward",
+			"sum_count": 50
+		},
+		{
+			"name": "Oculus Quesr VR",
+			"puzzle_img": "SOHOShop/UI_Redeem/UI_Puzzle/Puzzle/OculusQuestVR_Puzzle",
+			"reward_img": "SOHOShop/UI_Redeem/UI_Puzzle/OculusQuestVR_Reward",
+			"sum_count": 50
+		},
+		{
+			"name": "CHANEL",
+			"puzzle_img": "SOHOShop/UI_Redeem/UI_Puzzle/Puzzle/Chanel_Puzzle",
+			"reward_img": "SOHOShop/UI_Redeem/UI_Puzzle/Chanel_Reward",
+			"sum_count": 50
+		},
+		{
+			"name": "Air Jordan 1",
+			"puzzle_img": "SOHOShop/UI_Redeem/UI_Puzzle/Puzzle/AirJordan_Puzzle",
+			"reward_img": "SOHOShop/UI_Redeem/UI_Puzzle/AirJordan_Reward",
+			"sum_count": 50
+		}
+	],
+	"puzzle_multi_group": {
+		"1": 0,
+		"0.5": 0.1,
+		"0.7": 0.05,
+		"0.8": 0.03,
+		"0.9": 0.02,
+		"0.95": 0.01,
+		"0.99": 0.005
+	}
+}

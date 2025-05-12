@@ -1,0 +1,55 @@
+
+M_2.png
+size: 843,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Flash_lighe_b
+  rotate: false
+  xy: 2, 7
+  size: 291, 264
+  orig: 293, 285
+  offset: 1, 18
+  index: -1
+fx_light14
+  rotate: false
+  xy: 295, 101
+  size: 390, 170
+  orig: 399, 210
+  offset: 0, 20
+  index: -1
+fx_star
+  rotate: true
+  xy: 407, 12
+  size: 87, 110
+  orig: 90, 112
+  offset: 1, 1
+  index: -1
+gem_a
+  rotate: true
+  xy: 519, 42
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+light_a
+  rotate: false
+  xy: 295, 2
+  size: 110, 97
+  orig: 116, 102
+  offset: 3, 3
+  index: -1
+ring_a
+  rotate: true
+  xy: 687, 7
+  size: 127, 141
+  orig: 127, 152
+  offset: 0, 11
+  index: -1
+ring_b
+  rotate: true
+  xy: 687, 136
+  size: 135, 154
+  orig: 141, 158
+  offset: 3, 2
+  index: -1

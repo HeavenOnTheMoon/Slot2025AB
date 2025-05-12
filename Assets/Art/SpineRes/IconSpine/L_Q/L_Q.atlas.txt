@@ -1,0 +1,27 @@
+
+L_Q.png
+size: 360,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Q_a
+  rotate: true
+  xy: 224, 2
+  size: 61, 69
+  orig: 65, 72
+  offset: 2, 2
+  index: -1
+Q_b
+  rotate: false
+  xy: 224, 65
+  size: 134, 144
+  orig: 137, 147
+  offset: 1, 2
+  index: -1
+aa
+  rotate: false
+  xy: 2, 5
+  size: 220, 204
+  orig: 222, 206
+  offset: 1, 1
+  index: -1
